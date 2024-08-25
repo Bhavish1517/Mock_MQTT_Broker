@@ -29,3 +29,9 @@ Not an actual MQTT Broker like Mosquitto, HiveMQ, etc but just a simpler basic v
 - You will get a basic gui to interact with and and perform different functions.
   
  **NOTE : The usernames and passwords has been hardcoded as seen in the server.py code in the authenticate function**
+
+Please note that this project does not include SSL/TLS encryption for the MQTT communication
+
+## Future Work:
+
+- **SSL/TLS Implementation:** Adding support for SSL/TLS certificates to secure the communication between the MQTT broker and clients.
