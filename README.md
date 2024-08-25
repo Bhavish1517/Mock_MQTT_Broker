@@ -27,3 +27,5 @@ Not an actual MQTT Broker like Mosquitto, HiveMQ, etc but just a simpler basic v
 - First run the server.py .
 - Next on another command line run the client.py .
 - You will get a basic gui to interact with and and perform different functions.
+  
+ **NOTE : The usernames and passwords has been hardcoded as seen in the server.py code in the authenticate function**
