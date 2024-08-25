@@ -32,6 +32,6 @@ Not an actual MQTT Broker like Mosquitto, HiveMQ, etc but just a simpler basic v
 
 Please note that this project does not include SSL/TLS encryption for the MQTT communication
 
-## Future Work:
+## Future Work
 
 - **SSL/TLS Implementation:** Adding support for SSL/TLS certificates to secure the communication between the MQTT broker and clients.
